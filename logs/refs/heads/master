@@ -1,0 +1,158 @@
+0000000000000000000000000000000000000000 e78964b8b5430938f495c10e2c0739baf810a3ae Parow <Parow> 1569180624 +0200	clone: from https://github.com/iTexZoz/FlashLand.git
+e78964b8b5430938f495c10e2c0739baf810a3ae a72a09c20530cce9f3dc98548736758554889bca Parow <Parow> 1569268304 +0200	commit: mail script + menu boss start + joblisting 90%
+a72a09c20530cce9f3dc98548736758554889bca 00fda7bc42f007ec9b93a01daf0882c19908136a Parow <Parow> 1569441477 +0200	commit: computer script 20% + crafting script 100%
+00fda7bc42f007ec9b93a01daf0882c19908136a 84d0dbe7f876712360a43f1adbf0a62886ec4b19 Parow <Parow> 1569534026 +0200	commit: computer mail + encrypt with sha1
+84d0dbe7f876712360a43f1adbf0a62886ec4b19 ff0474e772f35d01a49cf10cc374aba3e2e899cb Parow <Parow> 1569626443 +0200	commit: garage: garage joueur 90% TODO: Remove vehicle from bdd
+ff0474e772f35d01a49cf10cc374aba3e2e899cb a4628b0754de53f844add070d0d50becc215f2fc Parow <Parow> 1569770422 +0200	commit: rageui: visible bug fix
+a4628b0754de53f844add070d0d50becc215f2fc 9144cf4a60f984ee6491ddd2a5e1c75f7254baa5 Parow <Parow> 1569770436 +0200	commit: garage:90% manque juste le check si le véhicule est owned
+9144cf4a60f984ee6491ddd2a5e1c75f7254baa5 121e5686193ddf08053c134aea92f459b0cadc37 Parow <Parow> 1569879685 +0200	commit: add some garage + edit blip vehicle shop
+121e5686193ddf08053c134aea92f459b0cadc37 e97c562430f95e863635f9ef94f3528d8453b397 Parow <Parow> 1570194517 +0200	commit: computer lspd criminal records
+e97c562430f95e863635f9ef94f3528d8453b397 1b08bc088f39c8f770216e2d73d51cc9af2cdb2f Parow <Parow> 1570205949 +0200	Fast forward branch master to branch master
+1b08bc088f39c8f770216e2d73d51cc9af2cdb2f 39532268fa12535023864e880061afe46101d2b6 Parow <Parow> 1570297120 +0200	Fast forward branch master to branch master
+39532268fa12535023864e880061afe46101d2b6 b51990d3709d549c4034d135ba2afa9a89bc18e5 Parow <Parow> 1570305977 +0200	commit: cam + perms computer
+b51990d3709d549c4034d135ba2afa9a89bc18e5 53599e854362810f56fa2631fcedb2c6735a78ca Parow <Parow> 1570653016 +0200	commit: camera scaleform
+53599e854362810f56fa2631fcedb2c6735a78ca ae5c9c5fb18aef80597c41cebacef961f31f2c22 Parow <Parow> 1570653028 +0200	commit: vehicle shop edit to buy vehicle (add in database)
+ae5c9c5fb18aef80597c41cebacef961f31f2c22 596d1f66b59a52eb5fd558de84753010dc869e3a Parow <Parow> 1570996401 +0200	Fast forward branch master to branch master
+596d1f66b59a52eb5fd558de84753010dc869e3a c8f9f8c6108162a2257aa529807b1f9b748928fb Parow <Parow> 1570998298 +0200	commit: fourrière fin
+c8f9f8c6108162a2257aa529807b1f9b748928fb 879080dce6bb0da22497b483b3d4222487832aba Parow <Parow> 1571512788 +0200	commit: edit tow menu
+879080dce6bb0da22497b483b3d4222487832aba 7d4959d334d8887afe14b36d4364c49132f3b1e9 Parow <Parow> 1571512797 +0200	commit: clé début
+7d4959d334d8887afe14b36d4364c49132f3b1e9 8fc1ae90afd18dff319f7877edcdcd3038c28198 Parow <Parow> 1571512807 +0200	commit: GetAllOwnedVehicles
+8fc1ae90afd18dff319f7877edcdcd3038c28198 07c51ccd4837a065d1102a19e59ac6673338fffd Parow <Parow> 1571512818 +0200	commit: Owned vehicles file
+07c51ccd4837a065d1102a19e59ac6673338fffd af123dca5364670fd4a5d3205bf5febf3b63825f Parow <Parow> 1571512834 +0200	commit: Resource.lua reformat & remove of a print inventory
+af123dca5364670fd4a5d3205bf5febf3b63825f 4ef88e9c447b63076bf90df78391987df6eb02f0 Parow <Parow> 1571519103 +0200	commit: blips for extrapos
+4ef88e9c447b63076bf90df78391987df6eb02f0 b214234966a689f46bcb523bcacf331f1723f9d3 Parow <Parow> 1571519111 +0200	commit: remove G key for crafting menu
+b214234966a689f46bcb523bcacf331f1723f9d3 18a18cfdd27625b8c0fdedfea0676893c962b5ab Parow <Parow> 1571519121 +0200	commit: fix of a bug give item
+18a18cfdd27625b8c0fdedfea0676893c962b5ab 1bfa6313945a1336821b02da6f100b2959617b12 Parow <Parow> 1571519143 +0200	commit: Give clé + verrouillage véhicule
+1bfa6313945a1336821b02da6f100b2959617b12 1d9f21f7e8fc43f556a3d479bc0b9e1ab97d7523 Parow <Parow> 1571519159 +0200	commit: blips for extrapos
+1d9f21f7e8fc43f556a3d479bc0b9e1ab97d7523 beb868baf58060403cae78d9fbe24d434e529f96 Parow <Parow> 1571519166 +0200	commit: CenterButton for rageui
+beb868baf58060403cae78d9fbe24d434e529f96 04c457058e969f40ebed418c60ae0d95ff5b2505 Parow <Parow> 1571519178 +0200	commit: reduce of time for zones
+04c457058e969f40ebed418c60ae0d95ff5b2505 4082d82621257503471166cb8bc18f57776ccccb Parow <Parow> 1571519188 +0200	commit: preter clé server side
+4082d82621257503471166cb8bc18f57776ccccb a881d7685a8f8530b10938baac50e39f655319ce Parow <Parow> 1571519209 +0200	commit: coffre debut TODO: Stockage handler
+a881d7685a8f8530b10938baac50e39f655319ce 3a2892ba90a99265f9f128486e36082f220a069a Parow <Parow> 1571519226 +0200	commit: preter clé
+3a2892ba90a99265f9f128486e36082f220a069a 2a9ce540b41352d9c25907b589b492471c603929 Parow <Parow> 1571599371 +0200	Fast forward branch master to branch master
+2a9ce540b41352d9c25907b589b492471c603929 8b08acc1c645aec5528b22ef13308478c7eadcc9 Parow <Parow> 1571604183 +0200	commit: stockage api 75%
+8b08acc1c645aec5528b22ef13308478c7eadcc9 4590fc3bd856ccdb91e9fae3f51d59e071f9c9c8 Parow <Parow> 1571689727 +0200	commit: stockage 90%
+4590fc3bd856ccdb91e9fae3f51d59e071f9c9c8 57281bb959e03c3891dee72f5bed41c2b0be2eca Parow <Parow> 1571777721 +0200	commit: fix key handler
+57281bb959e03c3891dee72f5bed41c2b0be2eca ea2e6d0643abde5c7f1b4fdff5f1cca76c537a05 Parow <Parow> 1571777738 +0200	commit: edit job handler (smooth) + fin coffre
+ea2e6d0643abde5c7f1b4fdff5f1cca76c537a05 0a13357be66f1195e3c84f3ed4078ab70efd8c34 Parow <Parow> 1571947798 +0200	commit: jobs menus
+0a13357be66f1195e3c84f3ed4078ab70efd8c34 35dc63815fe05b18013039d01c7895538c92780c Parow <Parow> 1571947813 +0200	commit: position saved message show less + fix of key
+35dc63815fe05b18013039d01c7895538c92780c d600ac5fd7b27d276ac7bec2dd69755e9b72db4b Parow <Parow> 1572207093 +0100	Fast forward branch master to branch master
+d600ac5fd7b27d276ac7bec2dd69755e9b72db4b 90819570afd9fea4cc81de26a0af25c42f2e6526 Parow <Parow> 1572211020 +0100	commit: HoverPlayer
+90819570afd9fea4cc81de26a0af25c42f2e6526 0e1218fc7c69410e7888f2d7e652c82b963a3399 Parow <Parow> 1572296014 +0100	commit: police veh fct + mecano fct + facture sys
+0e1218fc7c69410e7888f2d7e652c82b963a3399 dbe0807d01b7dbc876cab6a45dfda76cf800f55d Parow <Parow> 1573067711 +0100	Fast forward branch master to branch master
+dbe0807d01b7dbc876cab6a45dfda76cf800f55d 554c54250c657c48c2d1927ce607733686ad3a9d Parow <Parow> 1573075678 +0100	commit: handcuff + fouille joueur
+554c54250c657c48c2d1927ce607733686ad3a9d ac0a201510b403086bda54888990895acd769e45 Parow <Parow> 1573944150 +0100	commit: help command
+ac0a201510b403086bda54888990895acd769e45 7ecf8771c47c85ddc7150b2275c188160be808cb Parow <Parow> 1574288595 +0100	commit: drugseller v2.0 + implement xp
+7ecf8771c47c85ddc7150b2275c188160be808cb 8ae02390900711073f293e20e7effa7642ddfd93 Parow <Parow> 1576972970 +0100	commit: gcphone+ remove char selector + fix + new coffre + filter inv
+8ae02390900711073f293e20e7effa7642ddfd93 91a923c96fbbd60467f2111e3a56512cdd35cbb7 Parow <Parow> 1577027317 +0100	commit: Revert "Remove mugroom content."
+91a923c96fbbd60467f2111e3a56512cdd35cbb7 e3873fac2650a7662db41fd9ff029a42fedd12b3 Parow <Parow> 1577061019 +0100	commit: clothesshop -> waiting for torso
+e3873fac2650a7662db41fd9ff029a42fedd12b3 ab1fb8098d0c07969c652bc0482ed7ae2f8246ca Parow <Parow> 1577061048 +0100	commit: fix label item add + service sys
+ab1fb8098d0c07969c652bc0482ed7ae2f8246ca f3e7c9526b4011d3c4dee1b78d9cd545bb9555f5 Parow <Parow> 1577061056 +0100	commit: use item for clothes
+f3e7c9526b4011d3c4dee1b78d9cd545bb9555f5 fc6d44c38c698f384ab266b092baf388f814cd8c Parow <Parow> 1577061073 +0100	commit: position menu
+fc6d44c38c698f384ab266b092baf388f814cd8c f871dd32df2bceec211a2085a1483eb8e18a80d0 Parow <Parow> 1577061097 +0100	commit: removed print
+f871dd32df2bceec211a2085a1483eb8e18a80d0 58d52af8d0a14a50ff9f40d0fa9381814a9fedb2 Parow <Parow> 1577061105 +0100	commit: service + position menu
+58d52af8d0a14a50ff9f40d0fa9381814a9fedb2 d24864427a66fc350fbf4a5dd6c3dc5725d2f79e Parow <Parow> 1577061114 +0100	commit: loadinventory at spawn
+d24864427a66fc350fbf4a5dd6c3dc5725d2f79e a6586c90ba3ef9e6b4b4f070bf44dadf17b73cdf Parow <Parow> 1577061122 +0100	commit: equip clothes on spawn
+a6586c90ba3ef9e6b4b4f070bf44dadf17b73cdf 8840e046a921e67ece2b0cfaadd3f6a18d9e4337 Parow <Parow> 1577061131 +0100	commit: service on/off
+8840e046a921e67ece2b0cfaadd3f6a18d9e4337 6ba4e71b81ddc6676cf1fbcf266a5a5efa7ac519 Parow <Parow> 1577061148 +0100	commit: position menu
+6ba4e71b81ddc6676cf1fbcf266a5a5efa7ac519 62d4392d2d0b77d4c13795c8febceaaf1cd9d2fa Parow <Parow> 1577061160 +0100	commit: static data for clothes shop
+62d4392d2d0b77d4c13795c8febceaaf1cd9d2fa 2704c367cd283f2882c16966d68338aa2af6a734 Parow <Parow> 1577061174 +0100	commit: load clothes shop for resource.lua
+2704c367cd283f2882c16966d68338aa2af6a734 7ebc7b732254cdc3a8997f3a4420375f900b0968 Parow <Parow> 1577061367 +0100	commit: Edit equiped for clothes items
+7ebc7b732254cdc3a8997f3a4420375f900b0968 fb3d47fd5cf1c0bd70fcbf6b2ad532a67c53acd2 Parow <Parow> 1577124840 +0100	commit: masks shop + anim + item
+fb3d47fd5cf1c0bd70fcbf6b2ad532a67c53acd2 e27379efd0a8afde733de91d17feb959d1688e95 Parow <Parow> 1577139009 +0100	commit: shop limited for job
+e27379efd0a8afde733de91d17feb959d1688e95 de9cb2d0dd513130827002bb92449fd44891cd07 Parow <Parow> 1577139093 +0100	commit: autosave player + xp
+de9cb2d0dd513130827002bb92449fd44891cd07 d894121db3ce6388cd2048ae6ff29fe47b3726bb Parow <Parow> 1577139101 +0100	commit: fix money bug
+d894121db3ce6388cd2048ae6ff29fe47b3726bb f26b5d5611b629988e61c33a5ed8080762a5ce14 Parow <Parow> 1577139111 +0100	commit: atm banking
+f26b5d5611b629988e61c33a5ed8080762a5ce14 e6cdad5411e300a913df33998ec468a01adae0c3 Parow <Parow> 1577139119 +0100	commit: remove,transfer,add money
+e6cdad5411e300a913df33998ec468a01adae0c3 9512630a53aff40aa1f75625a8e16f1fad2aebf2 Parow <Parow> 1577139130 +0100	commit: resource.lua atm
+9512630a53aff40aa1f75625a8e16f1fad2aebf2 92ab7827c01a6a962c1cb36cdd91d79b47f1ee1c Parow <Parow> 1577631403 +0100	commit: atm end
+92ab7827c01a6a962c1cb36cdd91d79b47f1ee1c ba9e7b61d055c59903edd198ecb5ea533585c1ac Parow <Parow> 1577631407 +0100	commit (merge): Merge remote-tracking branch 'origin/master'
+ba9e7b61d055c59903edd198ecb5ea533585c1ac bd378b17e6f70fa570a4e702611b346f49a16499 Parow <Parow> 1577634309 +0100	commit: fix permis
+bd378b17e6f70fa570a4e702611b346f49a16499 33de06027d39be12f7ad32a040c5dce2d0c61ad6 Parow <Parow> 1577634319 +0100	commit: Closecurrentmenu job
+33de06027d39be12f7ad32a040c5dce2d0c61ad6 e87909ac0ec6e7dd45ac3532ad9ea880cd64624d Parow <Parow> 1577634331 +0100	commit: fix syntax
+e87909ac0ec6e7dd45ac3532ad9ea880cd64624d 7ae1327b056449b90ff8f412c688862bbaa568c0 Parow <Parow> 1577634356 +0100	commit: edit points permis
+7ae1327b056449b90ff8f412c688862bbaa568c0 f552861218f2a26cfaf173903a710d6ef15fe22b Parow <Parow> 1577651617 +0100	commit: fix rageui items
+f552861218f2a26cfaf173903a710d6ef15fe22b ed7b3ffc02e09a19b0e542307faa3918963c00bc Parow <Parow> 1577651629 +0100	commit: implemented category for items
+ed7b3ffc02e09a19b0e542307faa3918963c00bc 49ec41f4143abd840bf66ca8088dc9f3e4b3f104 Parow <Parow> 1577651927 +0100	commit: resource.lua for weapon shop
+49ec41f4143abd840bf66ca8088dc9f3e4b3f104 1eea038e7e7bd8fc4952b10ffa0d0c7860e4f5a9 Parow <Parow> 1577653198 +0100	commit: armes blanches + armes weapon shop
+1eea038e7e7bd8fc4952b10ffa0d0c7860e4f5a9 16fead9e3a655896d60e688a0b218e71f543eab0 Parow <Parow> 1577653206 +0100	commit: generate serial number lspd
+16fead9e3a655896d60e688a0b218e71f543eab0 6ac8a271e009def7ea719db831096c70914d0626 Parow <Parow> 1577653219 +0100	commit: munition handler inventory
+6ac8a271e009def7ea719db831096c70914d0626 44316b834ab79737c7ab4b05450692713e5f5dcc Parow <Parow> 1577654852 +0100	commit: kevlar information
+44316b834ab79737c7ab4b05450692713e5f5dcc 2ddb8a1395a3c2d9bbae0e5fccedfde6bb18362b Parow <Parow> 1577654861 +0100	commit: kevlar shop menu
+2ddb8a1395a3c2d9bbae0e5fccedfde6bb18362b 6585913bf7c4fc13394c9b9aaf1b91b2cf4f1999 Parow <Parow> 1577654987 +0100	commit: lower string for notification receiver
+6585913bf7c4fc13394c9b9aaf1b91b2cf4f1999 d5378921ebd1a78856153445e62f574163062ab2 Parow <Parow> 1577661076 +0100	commit: remove weapon category for ammo + kevlars
+d5378921ebd1a78856153445e62f574163062ab2 10f142eb853c2d08cc0842efadda55fa20472578 Parow <Parow> 1577661101 +0100	commit: equip weapon fct
+10f142eb853c2d08cc0842efadda55fa20472578 5051ef08b3a9ed6915cd869c46699f298f79b1cc Parow <Parow> 1577661116 +0100	commit: useitem specialy for weapon
+5051ef08b3a9ed6915cd869c46699f298f79b1cc e8184c67541a102d875b5daeb177b5c03df76679 Parow <Parow> 1577661136 +0100	commit: edit data + buy munition
+e8184c67541a102d875b5daeb177b5c03df76679 ac47760615267e332c70115113c8db8d57530874 Parow <Parow> 1577661148 +0100	commit: weapon shop fin
+ac47760615267e332c70115113c8db8d57530874 eaca5c2d23ecf4cba56b8453459e5f54bb2b2adb Parow <Parow> 1577662910 +0100	commit: admin giveitem + setjob
+eaca5c2d23ecf4cba56b8453459e5f54bb2b2adb c10aeedf4536df2e213c7f8f90a9070a1d5499b9 Parow <Parow> 1577745542 +0100	commit: fix retricte job shop
+c10aeedf4536df2e213c7f8f90a9070a1d5499b9 6d4a416f2c4dcaf57cfcc5f18e76fe5c079575e7 Parow <Parow> 1577745550 +0100	commit: idea
+6d4a416f2c4dcaf57cfcc5f18e76fe5c079575e7 e870d67ad53e0a95833cb29d0af0e6b237dbbf7a Parow <Parow> 1577745559 +0100	commit: reduce time for zone
+e870d67ad53e0a95833cb29d0af0e6b237dbbf7a 59602eed0a1b0df9fa48e7bab1c6431e2c1fd904 Parow <Parow> 1577745567 +0100	commit: clothesshop finis fix
+59602eed0a1b0df9fa48e7bab1c6431e2c1fd904 473e2b0eaf33c278a56ddaa8dfdb7ec214407e61 Parow <Parow> 1577745575 +0100	commit: ltd
+473e2b0eaf33c278a56ddaa8dfdb7ec214407e61 f4c157d7d22a17c80fb89db7d90f6a6fa6c00d55 Parow <Parow> 1577745580 +0100	commit: service call
+f4c157d7d22a17c80fb89db7d90f6a6fa6c00d55 8632d725b8422b6b128cfd98dd1f5f203541a53c Parow <Parow> 1577745586 +0100	commit: clothes fix
+8632d725b8422b6b128cfd98dd1f5f203541a53c 652043ab1f27e343569f14f0f7ee555fc70c747a Parow <Parow> 1577745596 +0100	commit: setjob2 for admin
+652043ab1f27e343569f14f0f7ee555fc70c747a f927a2c1508899359646bad6d4a754606ada9ceb Parow <Parow> 1577745605 +0100	commit: fix accessories + clothes
+f927a2c1508899359646bad6d4a754606ada9ceb e51a5e2720156a36928ce5983ea7c5576e6bffc6 Parow <Parow> 1577745614 +0100	commit: fix put clothes
+e51a5e2720156a36928ce5983ea7c5576e6bffc6 16df3523d2962974698cffe1d56ac93987207dce Parow <Parow> 1577745624 +0100	commit: edit pdg->boss
+16df3523d2962974698cffe1d56ac93987207dce 9a4bd12646eba2858c97bd7f9733a1db213a176f Parow <Parow> 1577745630 +0100	commit: add batteries items
+9a4bd12646eba2858c97bd7f9733a1db213a176f 6d28fc953fbeda87eb7d380698acd37feb69745a Parow <Parow> 1577807967 +0100	commit: resource for ltd job
+6d28fc953fbeda87eb7d380698acd37feb69745a 62680a370a85fb1be40de65c5766f30a13773f90 Parow <Parow> 1577808055 +0100	commit: add telpacked for ltd shop
+62680a370a85fb1be40de65c5766f30a13773f90 6c07a06889aa7cfc13d9c26531951e82872adf42 Parow <Parow> 1577808064 +0100	commit: storage handler for jobs
+6c07a06889aa7cfc13d9c26531951e82872adf42 81554a5dec202d43ee9a37855562039d3d3d3141 Parow <Parow> 1577808073 +0100	commit: Link to pos function storage
+81554a5dec202d43ee9a37855562039d3d3d3141 0055219af4d7b69cef7d0f7e66dd3fab51d62caa Parow <Parow> 1577808082 +0100	commit: fix pos marker
+0055219af4d7b69cef7d0f7e66dd3fab51d62caa ed3d4e96f47f71d1f600e7109417e08cece8cd58 Parow <Parow> 1577808093 +0100	commit: add traitement zone for ltd job
+ed3d4e96f47f71d1f600e7109417e08cece8cd58 9c193c0d70201dd5ec09751d325747f55203a8cd Parow <Parow> 1577808102 +0100	commit: added  telpack item
+9c193c0d70201dd5ec09751d325747f55203a8cd 89ff72dd51febb7e868c074af1c0478097c37e75 Parow <Parow> 1577985886 +0100	commit: remove print
+89ff72dd51febb7e868c074af1c0478097c37e75 1d1dbd2bcf86e9b9f449b655f3eb87851293ff57 Parow <Parow> 1577989485 +0100	commit: garage fix
+1d1dbd2bcf86e9b9f449b655f3eb87851293ff57 4027c281e8ea4dda4360bcb3c6aff1420fc6ca6c Parow <Parow> 1577989493 +0100	commit: fix coffre pos
+4027c281e8ea4dda4360bcb3c6aff1420fc6ca6c 7aad8d9499e8d1362b728de78fee88c375c7eb09 Parow <Parow> 1577998176 +0100	commit: essence + fuel
+7aad8d9499e8d1362b728de78fee88c375c7eb09 d78a3c16c88bd463d1ee4db686f729cacd9b9aa1 Parow <Parow> 1578199485 +0100	commit: tatoo
+d78a3c16c88bd463d1ee4db686f729cacd9b9aa1 8de98d1edddde69d34f73e39be8b0d725e3d33ee Parow <Parow> 1578199510 +0100	commit: progress bar
+8de98d1edddde69d34f73e39be8b0d725e3d33ee 97c90be2ac862489007416b50ab5890f6f79a51c Parow <Parow> 1578199524 +0100	commit: poubelle + distributeur
+97c90be2ac862489007416b50ab5890f6f79a51c 63ba4a271f050748268c2151c5799a9c56a10fb5 Parow <Parow> 1578199530 +0100	commit: fix tatoo
+63ba4a271f050748268c2151c5799a9c56a10fb5 8a4d2d6a34e010a3a2d432cd626a9892a36f47df Parow <Parow> 1578199540 +0100	commit: set tatoo
+8a4d2d6a34e010a3a2d432cd626a9892a36f47df 27b16a27dcd306290797a3910af9fcc22fb8e717 Parow <Parow> 1578267051 +0100	commit: added instance
+27b16a27dcd306290797a3910af9fcc22fb8e717 f1d9daf27485f78e93225cfbc971bd370d2b7d19 Parow <Parow> 1578267060 +0100	commit: immo job
+f1d9daf27485f78e93225cfbc971bd370d2b7d19 ba21893235057dd127d9c00bf54a08e9989b3985 Parow <Parow> 1578267072 +0100	commit: uuid client side
+ba21893235057dd127d9c00bf54a08e9989b3985 3c3aea1fb0d5cbe851c71f5cd4377d34e07b3cd3 Parow <Parow> 1578267086 +0100	commit: fix remove pos marker zone
+3c3aea1fb0d5cbe851c71f5cd4377d34e07b3cd3 60034a7fe699fb52674588f9be402622fad88370 Parow <Parow> 1578267101 +0100	commit: appart 90% TODO: sonnette
+60034a7fe699fb52674588f9be402622fad88370 9991faf63683707b6a7905e95bcc956421634256 Parow <Parow> 1578267111 +0100	commit: resourcelua update
+9991faf63683707b6a7905e95bcc956421634256 6ffde9b757442a2c31f6f997d677222d1ccb4fd2 Parow <Parow> 1578432020 +0100	commit: save status
+6ffde9b757442a2c31f6f997d677222d1ccb4fd2 6df6dcaaac9285dbe914b8b7562387142a52ea1b Parow <Parow> 1578432029 +0100	commit: handsup poiting , ...
+6df6dcaaac9285dbe914b8b7562387142a52ea1b c85c189621de60a62d8f87514ffab1c5ab67480a Parow <Parow> 1578432036 +0100	commit: status for flashland_utils
+c85c189621de60a62d8f87514ffab1c5ab67480a c1857ca1fb2b045dcfa5eca91ca52083f2c86bca Parow <Parow> 1578432048 +0100	commit: resource flashland update
+c1857ca1fb2b045dcfa5eca91ca52083f2c86bca 03b992b5d2e71525ff8e93396d1646575c3539fc Parow <Parow> 1578432059 +0100	commit: resource.lua flashland update
+03b992b5d2e71525ff8e93396d1646575c3539fc e7c2ed061d10fad7b6b1047317ad7f4409d38282 Parow <Parow> 1578432069 +0100	commit: uuid.js
+e7c2ed061d10fad7b6b1047317ad7f4409d38282 eb0c085e0ae29e71d2c2ab9276c8b785cf74d42e Parow <Parow> 1578432079 +0100	commit: added static data shops
+eb0c085e0ae29e71d2c2ab9276c8b785cf74d42e 9338bc26d34b995d6c33e70774259ce4f9073a50 Parow <Parow> 1578432089 +0100	commit: update crea
+9338bc26d34b995d6c33e70774259ce4f9073a50 5a1693304e965fce6ccdf78856bd83e44657e644 Parow <Parow> 1578432108 +0100	commit: creator update
+5a1693304e965fce6ccdf78856bd83e44657e644 dd7b76639960b068b47c7c3798f528d42599ba94 Parow <Parow> 1578432135 +0100	commit: ignore git
+dd7b76639960b068b47c7c3798f528d42599ba94 dceec1718d002394d15f9bfba37c00d9f167a891 Parow <Parow> 1578432169 +0100	commit: update crea
+dceec1718d002394d15f9bfba37c00d9f167a891 dec37fe50cd9abffa05bf97b19f0ed8ddc3aa9d9 Parow <Parow> 1578432176 +0100	commit: added jobs
+dec37fe50cd9abffa05bf97b19f0ed8ddc3aa9d9 25bd63195d7c50ad05da01f9d06e9fd1c16582ac Parow <Parow> 1578432190 +0100	commit: wl check
+25bd63195d7c50ad05da01f9d06e9fd1c16582ac eb6c671b85e2ca842cee81e5587156373585afc8 Parow <Parow> 1578432207 +0100	commit: added exception for use item
+eb6c671b85e2ca842cee81e5587156373585afc8 ee686344d7a26b5e4cbf4d29743d21ee241e7b5c Parow <Parow> 1578432217 +0100	commit: temp hud
+ee686344d7a26b5e4cbf4d29743d21ee241e7b5c d29ffb730d7a962480b7862ee2f32548aef3c9ea Parow <Parow> 1578498315 +0100	commit: remove alt radio
+d29ffb730d7a962480b7862ee2f32548aef3c9ea 62b5ce86c107d4ef87c948eda32cc94b46dc8d91 Parow <Parow> 1578498323 +0100	commit: fix status update
+62b5ce86c107d4ef87c948eda32cc94b46dc8d91 0a3b84bd9932d7f5e29ae48ed7ad8106f59e6367 Parow <Parow> 1578498329 +0100	commit: add a few blips
+0a3b84bd9932d7f5e29ae48ed7ad8106f59e6367 efcbb6b5fa2f6a05674f0a66b79fe4e42ea6e7b8 Parow <Parow> 1578498347 +0100	commit: instance for crea
+efcbb6b5fa2f6a05674f0a66b79fe4e42ea6e7b8 1e441d76ccb6fd2f41fa3739183536cedca17bac Parow <Parow> 1578498591 +0100	commit: added few blips
+1e441d76ccb6fd2f41fa3739183536cedca17bac a6564e1ef36dc823efff1ea73312486efb00c289 Parow <Parow> 1578498831 +0100	commit: blips bank
+a6564e1ef36dc823efff1ea73312486efb00c289 50ae1cae837951e69160e21ee0a7cfcff242259d Parow <Parow> 1578498850 +0100	commit: fix blip name
+50ae1cae837951e69160e21ee0a7cfcff242259d 4a2d814c0f4e3241beeffae13a235a68331222d2 Parow <Parow> 1578499203 +0100	commit: fix setjob from admin menu
+4a2d814c0f4e3241beeffae13a235a68331222d2 1003711344d058bf98d81f6b951962b16a6ace39 Parow <Parow> 1578501029 +0100	commit: fix save status
+1003711344d058bf98d81f6b951962b16a6ace39 fa32336b30c4a66254f18a961e6c3e45759140e2 Parow <Parow> 1578501042 +0100	commit: promote recruit demote
+fa32336b30c4a66254f18a961e6c3e45759140e2 135296512b726aa044fed81ece0df9f17a50d30a Parow <Parow> 1578501051 +0100	commit (amend): promote recruit demote + virer
+135296512b726aa044fed81ece0df9f17a50d30a ec8930c16236ee73726f78750e590d2b63d407ac Parow <Parow> 1578501752 +0100	commit: fix immo
+ec8930c16236ee73726f78750e590d2b63d407ac ad959b8acff96a0e542ac04b88c4846e0e28dada Parow <Parow> 1578502753 +0100	commit: gouvernement job + possibilité de fouiller sur tout les comptes
+ad959b8acff96a0e542ac04b88c4846e0e28dada c2afd7a60b85f4b6c0b1c068d9ae8225f7209b7a Parow <Parow> 1578514186 +0100	commit: annonces boss
+c2afd7a60b85f4b6c0b1c068d9ae8225f7209b7a 2283c8429b80f02efc96453a976f26f99f97147e Parow <Parow> 1578515814 +0100	commit: herse + shield as item
+2283c8429b80f02efc96453a976f26f99f97147e 2b4f6cb317b599b4d785e3c7686cea71d9211249 Parow <Parow> 1578515824 +0100	commit: fix bug véhicule illimité
+2b4f6cb317b599b4d785e3c7686cea71d9211249 2a3f8c48f28fd0610648ba736f4c9eb51c77b95a Parow <Parow> 1578518043 +0100	commit: facture pour job divers
+2a3f8c48f28fd0610648ba736f4c9eb51c77b95a 6fad9b25acf0962d3c95f5f292eb2ad1b7199623 Parow <Parow> 1578518051 +0100	commit: blessé fct
+6fad9b25acf0962d3c95f5f292eb2ad1b7199623 80ac170a216791b0f4f21989ac8b204f23b4d147 NoLifeFX <63243779+NoLifeFX@users.noreply.github.com> 1587963826 +0200	commit: BASE PAROW
+80ac170a216791b0f4f21989ac8b204f23b4d147 6fad9b25acf0962d3c95f5f292eb2ad1b7199623 NoLifeFX <63243779+NoLifeFX@users.noreply.github.com> 1587963864 +0200	reset: moving to 6fad9b25acf0962d3c95f5f292eb2ad1b7199623
+6fad9b25acf0962d3c95f5f292eb2ad1b7199623 d962215ea849caa003f43a42125bdae3f713f609 NoLifeFX <63243779+NoLifeFX@users.noreply.github.com> 1587963868 +0200	commit: BASE PAROW
